@@ -9,3 +9,7 @@
 
 - [chv-en.chv](https://yadi.sk/d/ZKvXjkwbI75Qmg)
 - [chv-en.en](https://yadi.sk/d/UeeL5g_M-prpTA)
+
+## About Chuvash language
+
+https://en.wikipedia.org/wiki/Chuvash_language
