@@ -13,3 +13,7 @@
 ## About Chuvash language
 
 https://en.wikipedia.org/wiki/Chuvash_language
+
+## License
+
+CC0
